@@ -1,4 +1,4 @@
-# 🎵 Task 11: Music Genre Classification
+# 🎵 Music Genre Classification
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![TensorFlow](https://img.shields.io/badge/Library-TensorFlow-orange?logo=tensorflow)
